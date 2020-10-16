@@ -1,5 +1,5 @@
 ### Hi there, Im David 👋
-I'm a developer from El Salvador, who loves new and crazy ideas, and be in touch with the new technologies. Im currently working as a Software engineer (https://github.com/vincuhub).
+I'm a developer from El Salvador, who loves new and crazy ideas, and be in touch with the new technologies. Im currently working as a Software engineer.
 
 Im very passionate about AI and how it can improve our daily lives! The field I try to specialize myself is Computer Vision.
 
